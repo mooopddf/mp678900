@@ -1,0 +1,12 @@
+{
+  "name": "mp的职业兽医规划",
+  "short_name": "兽医规划",
+  "description": "2026.10.30 - 2027.7.15 每天 30 分钟的执业兽医备考打卡",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f6f9",
+  "theme_color": "#2563eb",
+  "lang": "zh-CN"
+}
